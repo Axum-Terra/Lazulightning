@@ -1,2 +1,2 @@
 # Lazulightning
-Copyright ©2024 Axum Terra
+Copyright ©2024-present Axum Terra
