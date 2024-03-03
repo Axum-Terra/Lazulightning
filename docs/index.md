@@ -2,14 +2,13 @@
 layout: home
 
 hero:
-  name: VitePress
-  text: Vite & Vue powered static site generator.
-  tagline: Simple, powerful, and performant. Meet the modern SSG framework you've always wanted.
+  name: Lazuli's Profile
+  tagline: Multi-fandom single muse rp side-blog. Private & semi-selective! main blog - @axum-terra
   actions:
     - theme: brand
-      text: Get Started
+      text: Profile
       link: /example
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      text: Tumblr
+      link: https://www.tumblr.com/lazulightning-rp
 ---
