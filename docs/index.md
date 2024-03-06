@@ -14,6 +14,9 @@ hero:
     - theme: alt
       text: Tumblr
       link: https://www.tumblr.com/lazulightning-rp
+    - theme: alt
+      text: Hub blog
+      link: https://www.tumblr.com/axum-terra
 ---
 ::: tip RULES
 These rules are subject to change as I discover more about my rp preferences. For now, here's what I got:
