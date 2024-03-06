@@ -15,7 +15,7 @@ hero:
       text: Tumblr
       link: https://www.tumblr.com/lazulightning-rp
     - theme: alt
-      text: Hub blog
+      text: Hub Blog
       link: https://www.tumblr.com/axum-terra
 ---
 ::: tip RULES

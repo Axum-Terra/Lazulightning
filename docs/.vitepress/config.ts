@@ -3,14 +3,20 @@ import { defineConfig } from 'vitepress';
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
   lang: 'en-US',
-  title: 'Home Page',
+  title: 'Lazuli\'s Page',
   description: 'Character profile for @lazulighting-rp on Tumblr',
   //base: '/lazulightning/',
 
   themeConfig: {
     nav: [
       { text: 'Example', link: '/example' },
-
+      { text: 'Bio', link: '/bio'},
+      {
+        text: 'Fandoms',
+        items: [
+          { text: 'RWBY', link: '/RWBY'},
+        ],
+      },
       // {
       //   text: 'Dropdown Menu',
       //   items: [
@@ -28,6 +34,13 @@ export default defineConfig({
         // text: 'Guide',
         items: [
           { text: 'Example', link: '/example' },
+          { text: 'Bio', link: '/bio' },
+          {
+            text: 'Fandoms',
+            items: [
+              { text: 'RWBY', link: '/RWBY'},
+            ],
+          },
           // ...
         ],
       },
