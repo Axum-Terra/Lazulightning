@@ -5,7 +5,7 @@ export default defineConfig({
   lang: 'en-US',
   title: 'Lazuli\'s Page',
   description: 'Character profile for @lazulighting-rp on Tumblr',
-  base: '/lazulightning/',
+  base: '/Lazulightning/',
 
   themeConfig: {
     nav: [
