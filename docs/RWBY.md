@@ -16,9 +16,17 @@ Lazuli passively generates electric energy. Lazuli can use this energy to power 
 
 # Background
 **Equipment:** <br>
-<div calss ="grid-container">
-    <div class="grid-item">![An image](./public/hand.jpg)</div>
-    <div class="grid-item">![An image](./public/shield.jpg)</div>
-    <div class="grid-item">![An image](./public/gun.jpg)</div>
-    <div class="grid-item">![An image](./public/sword.jpg)</div>
+<div style="display: grid; grid-template-columns: auto auto;">
+    <div style="padding:4px;">
+        <img src="./public/hand.jpg" alt="Lazuli's robo hand"></img>
+    </div>
+    <div style="padding:4px;">
+        <img src="./public/shield.png" alt="lazuli's shield"></img>
+    </div>
+    <div style="padding:4px;">
+        <img src="./public/gun.jpg" alt="Neon Striker V3's pistol mode"></img>
+    </div>
+    <div style="padding:4px;">
+        <img src="./public/sword.jpg" alt="Neon Striker V3's sword mode"></img>
+    </div>
 </div>
